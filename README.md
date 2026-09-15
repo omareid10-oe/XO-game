@@ -1,2 +1,2 @@
-# XO-game
+# My Project
 Game
